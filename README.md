@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudando Engenharia da Computação
-- ⚡ Estou aprendendo ainda
+- ⚡ No início de tudo
 
  <div>
   <a href="https://github.com/mbdxd">
@@ -22,6 +22,6 @@
   
 <div> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/mbdxd/blob/output/github-contribution-grid-snake.svg)
  
 </div>
