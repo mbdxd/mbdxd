@@ -1,7 +1,7 @@
 ## Olá! Miguel aqui
 
 
-- 🌱 Estudando Engenharia da Computação
+- 🌱 Estudando Engenharia da Computação - Análise e Desenvolvimento de Sistemas
 - ⚡ No início de tudo
 
  <div>
