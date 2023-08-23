@@ -14,10 +14,11 @@
   <img align="center" alt="MG-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="MG-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MG-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img height="170em" <img align="right" alt="MG-dabi" src="https://media.giphy.com/media/KyEtBQgz6S4lVuHNfT/giphy.gif?cid=ecf05e47ilom11deo5e7zm8ubudu0yyyknjkm3cimg6ozdjz&rid=giphy.gif&ct=g">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img width="339" height="480"  <img align="right" alt="MG-dabi" src="https://media4.giphy.com/media/l0MYR2lI7zFGGffl6/giphy.gif?cid=ecf05e47d3iwmgkrtvyg1zbnqpm2xzhzzogn1fkyc1cg4ssx&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
- 
+
+
   ##
   
 <div> 
