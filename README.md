@@ -10,8 +10,7 @@
 &nbsp;
 &nbsp;
 
-<p align="center">Just at the beginning of the journey. <br><br>
-I have just graduated from college and I am continuously enhancing my knowledge to further qualify myself. I am embarking on a great journey in the field of technology.</p>&nbsp;
+<p align="center">Apenas no início da jornada. <br><br>
 
 &nbsp;
 &nbsp;
